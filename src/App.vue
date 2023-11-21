@@ -8,7 +8,7 @@ import Main from "./components/main/Main.vue";
 
 //<HelloWorld msg="Vite + Vue" />
 const user: any = ref();
-const ID: string = "1156214380564840538";
+const ID: string = "1176518653320114256";
 const isLoadingBanner: string = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fc9%2F4c%2Fe7%2Fc94ce78d80c07480d25f7acafddc15d8.gif&f=1&nofb=1&ipt=fe635b37f7cb97d686dbec10cd5a530530d4b09c15b72e934f2697241d6f7957&ipo=images";
 
 async function requestAPIUser(): Promise<void> {
